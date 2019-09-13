@@ -1,0 +1,21 @@
+{
+  "name": "premium",
+  "version": "0.0.1",
+  "description": "coucou c'est nous",
+  "main": "server.js",
+  "scripts": {
+    "dev": "backpack"
+  },
+  "author": "El roro",
+  "license": "MIT",
+  "dependencies": {
+    "backpack-core": "^0.8.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.0",
+    "pug": "^2.0.4"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0",
+    "volleyball": "^1.5.1"
+  }
+}
